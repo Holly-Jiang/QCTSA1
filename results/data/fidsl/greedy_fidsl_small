@@ -1,0 +1,170 @@
+*****************************************
+QFilter types (string):
+0 :: if no filter is used,
+1 :: if Q0 is used for all layers,
+12 :: if Q0 is used for the first layer and Q1 is used for the other layers,
+12x :: if Q0 is used for the first layer and Q0+Q1 is used for the other layers,
+2x :: if Q0+Q1 is used for all layers 
+In this test, circuit size: small, we use Type 0 filter and graphql initial mapping for small circuits
+*****************************************
+Sat Jun 26 13:52:13 2021
+4mod5-v1_24.qasm
+14 4
+decod24-v3_45.qasm
+51 8
+3_17_13.qasm
+17 2
+alu-v1_28.qasm
+17 5
+decod24-v1_41.qasm
+32 6
+4mod5-v1_23.qasm
+32 4
+sys6-v0_111.qasm
+9999999 9999999
+sys6-v0_111.qasm
+9999999 9999999
+4gt4-v0_80.qasm
+70 15
+4gt5_75.qasm
+26 14
+alu-bdd_288.qasm
+33 9
+4gt13_91.qasm
+38 5
+mini_alu_305.qasm
+9999999 9999999
+ising_model_10.qasm
+9999999 9999999
+alu-v0_27.qasm
+17 6
+4mod5-v0_18.qasm
+31 4
+mod5d1_63.qasm
+11 1
+4gt13-v1_93.qasm
+26 12
+4gt12-v0_88.qasm
+74 6
+4gt11_83.qasm
+14 0
+decod24-v0_38.qasm
+20 4
+one-two-three-v2_100.qasm
+23 8
+rd32_270.qasm
+33 6
+4gt11_84.qasm
+9 6
+4gt11_82.qasm
+18 1
+alu-v4_36.qasm
+38 8
+graycode6_47.qasm
+5 7
+rd32-v0_66.qasm
+16 5
+4mod5-v0_19.qasm
+14 4
+4gt10-v1_81.qasm
+54 9
+0example.qasm
+8 3
+ham3_102.qasm
+11 2
+alu-v2_32.qasm
+60 6
+cnt3-5_179.qasm
+9999999 9999999
+alu-v4_37.qasm
+9999999 9999999
+alu-v1_29.qasm
+17 6
+4gt13_90.qasm
+48 5
+one-two-three-v0_98.qasm
+57 12
+xor5_254.qasm
+4 4
+0410184_169.qasm
+5 5
+alu-v3_35.qasm
+17 3
+rd32-v1_68.qasm
+16 5
+mod5d2_64.qasm
+21 8
+4gt5_77.qasm
+51 8
+qft_10.qasm
+9999999 9999999
+one-two-three-v1_99.qasm
+53 14
+4mod5-v0_20.qasm
+9 1
+one-two-three-v3_101.qasm
+27 9
+ex-1_166.qasm
+9 2
+mod10_176.qasm
+66 11
+4mod5-bdd_287.qasm
+23 8
+decod24-v2_43.qasm
+21 5
+rd53_138.qasm
+52 14
+4mod7-v1_96.qasm
+61 7
+4_49_16.qasm
+83 15
+mod5mils_65.qasm
+13 5
+ex1_226.qasm
+4 4
+alu-v0_26.qasm
+32 10
+alu-v2_33.qasm
+13 7
+4mod5-v1_22.qasm
+10 3
+4gt5_76.qasm
+40 14
+alu-v3_34.qasm
+18 5
+4mod7-v0_94.qasm
+62 17
+aj-e11_165.qasm
+55 13
+decod24-bdd_294.qasm
+31 5
+miller_11.qasm
+23 2
+4gt13_92.qasm
+22 4
+The average ratio is 3268 : 2523 = 1.2952833927863654 
+The time spent for this test is 513.5681104660034
+*****************************************
+QFilter types (string):
+0 :: if no filter is used,
+1 :: if Q0 is used for all layers,
+12 :: if Q0 is used for the first layer and Q1 is used for the other layers,
+12x :: if Q0 is used for the first layer and Q0+Q1 is used for the other layers,
+2x :: if Q0+Q1 is used for all layers 
+In this test, circuit size: small, we use Type 0 filter and graphql initial mapping for small circuits
+*****************************************
+Tue Jul  6 16:27:58 2021
+*****************************************
+QFilter types (string):
+0 :: if no filter is used,
+1 :: if Q0 is used for all layers,
+12 :: if Q0 is used for the first layer and Q1 is used for the other layers,
+12x :: if Q0 is used for the first layer and Q0+Q1 is used for the other layers,
+2x :: if Q0+Q1 is used for all layers 
+In this test, circuit size: small, we use Type 0 filter and graphql initial mapping for small circuits
+*****************************************
+Tue Jul  6 16:28:43 2021
+alu-v4_37.qasm
+16 4
+The average ratio is 30 : 18 = 1.6666666666666667 
+The time spent for this test is 7.3452982902526855
